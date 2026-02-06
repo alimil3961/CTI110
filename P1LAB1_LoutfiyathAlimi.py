@@ -5,9 +5,9 @@
 
 # First and Last name
 
-your_first_name = "Jane"
+your_first_name = input("enter your first name: ")
 
-your_last_name = "Doe"
+your_last_name = input("enter your last name: ")
 
 
 
@@ -20,9 +20,9 @@ print()
 
 
 
-your_first_name = "LOUTFIYATH"
+your_first_name = input("enter your last name: ")
 
-your_last_name = "ALIMI"
+your_last_name = input("enter your last name: ")
 
 
 
