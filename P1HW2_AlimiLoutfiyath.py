@@ -19,6 +19,8 @@ result = budget - expenses
 # Display the remainding Balance
 
 print("-------- Travel Expenses--------")
+print(f"Location : {destination} " )
+print(f"Initial Budget : {budget} " )
 
 print("\n " )
 print(f"Gaz : {gaz}")
@@ -26,7 +28,7 @@ print(f"Accomodation : {accomodation}  ")
 print(f"Food : {food} " )
 print("\n " )
 
-print(f"Remainding Balance is : {result}")
+print(f"Remainding Balance is {result}")
 print("\n " )
 
 
