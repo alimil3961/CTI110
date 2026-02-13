@@ -21,7 +21,7 @@ print(f"{base_value} raised to the power of {exponent_value} is {result}  !!")
 print()
 print()
 
-print( "-----------addition and Substraction-----------2")
+print( "-----------addition and Substraction-----------")
 print("\n " )
 
 # Get 3 numbers from the user and add the first two and then substract
